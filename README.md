@@ -1,7 +1,7 @@
 # Fake Face Detector
-``` 
+``
 The goal of the detector is to distinguish real faces from generated ones. For this purpose thousands of photos of people (https://github.com/NVlabs/ffhq-dataset) and thousands of pictures of "generated" people (https://futurism.com/incredibly-realistic-faces-generated-neural-network) were used.   The detector was trained with the library FastAI and the technique Transfer Learning. Accuracy was surprisingly good, with over 90% on test data.  Further action in the area of Explainable AI is needed to verify that the model is robust.
-``` 
+`` 
 
 
 ## Login
