@@ -10,7 +10,7 @@
   
 ## Payment (Stripe)
 <p align="center"><img src="https://raw.githubusercontent.com/ManuFU/fake-faces--/master/stripePaymentData.png"><p>
-- Fill the boxes
+- Fill the boxes<br>
 - Use the credit card number 4242424242424242
   <br><br>
   
@@ -35,7 +35,7 @@ cd Flaskex
 pip install -r requirements.txt
 python app.py
 ```
-  <br><br>
+<br><br>
 <p align="center"><img src="https://raw.githubusercontent.com/anfederico/Flaskex/master/media/flaskex-demo.png" width="100%"><p>
   
 ## Features
